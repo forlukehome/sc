@@ -16,7 +16,7 @@ matplotlib
 scikit-learn
 pmdarima
 prophet
-c_intgrt_vec
+convertdate
 convertdate
 plotly
 python-docx
