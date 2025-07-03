@@ -4727,7 +4727,7 @@ def show_command_center():
 # ==================== 主应用界面 ====================
 def main():
     st.markdown('<div class="header">智能APS系统 Pro Max</div>', unsafe_allow_html=True)
-    st.markdown("**融合SAP IBP、Oracle SCM、Blue Yonder和OR-Tools技术的下一代智能排程解决方案**")
+    st.markdown("**新一代智能排程解决方案**")
     st.markdown("---")
 
     # 侧边栏导航
