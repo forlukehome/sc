@@ -16,7 +16,6 @@ matplotlib
 scikit-learn
 pmdarima
 prophet
-tensorflow
 c_intgrt_vec
 convertdate
 plotly
